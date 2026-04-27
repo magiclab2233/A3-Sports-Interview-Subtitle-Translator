@@ -1,5 +1,9 @@
 # A3 智能体育采访字幕翻译助手 —— 运动员姿态监测与提醒系统
 
+![坐姿监测助手](https://raw.githubusercontent.com/magiclab2233/A3-Sports-Interview-Subtitle-Translator/master/assets/A3_坐姿监测助手.gif)
+
+
+
 本项目是“智能体育采访字幕翻译助手”的硬件感知端，部署于树莓派（Raspberry Pi）平台，基于 MediaPipe 人体姿态识别技术，实时监测运动员在采访过程中的颈部与躯干姿态，并通过 LED 指示灯进行即时反馈，帮助运动员保持良好体态，从而提升后续字幕翻译与视频制作的成片质量。
 
 ---
